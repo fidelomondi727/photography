@@ -1,0 +1,13 @@
+.About{
+    display: flex;
+    margin: 1rem;
+    padding: 1rem;
+    gap: 1rem;
+}
+.b button{
+    background: black;
+    color: orangered;
+}
+.b button :hover{
+    color: white;
+}

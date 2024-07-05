@@ -1,0 +1,20 @@
+.home{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b670534b98a78d5e84a7d19/758bd521-e6a7-432a-be53-f770e2779b20/pexels-kaique-rocha-598917.jpg?format=1500w);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+    border-radius: 10px 10px;
+}
+
+.home-page{
+    color: white;
+    top: 10%;
+    left: 20%;
+    justify-content: center;
+    text-align: center;
+}
+
+.home-page h1 span{
+    color: orangered;
+}

@@ -1,0 +1,35 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: darkgray;
+    padding: 1rem;
+    border-radius: 50px 50px;
+}
+.navbar-logo a{
+    color: bisque;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.navbar-logo a span{
+    color: orangered;
+}
+.navbar-link{
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+.navbar-link li{
+    padding: 0.5rem 1rem;
+    list-style: none;
+}
+.navbar-link a{
+    color: bisque;
+    text-decoration: none;
+    transition: color 0.4s ease;
+    list-style: none;
+}
+.navbar-link a:hover{
+    color: black;
+}
